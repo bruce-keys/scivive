@@ -7,7 +7,6 @@ Anyone who has read the book can clearly see the need for editing. Richard is cu
 
 
 Links:
-*[Edited Book](http://sciVive.net/book)
 *[Original Book](https://archive.org/details/SciViveBookOutline_201802)
 
 
